@@ -1,6 +1,6 @@
 baseURL = "https://sergiofhr.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje se Sergio FHR"
+title = "Bitácora de Viaje de Sergio FHR"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
